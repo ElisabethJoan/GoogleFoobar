@@ -1,7 +1,5 @@
 def solution(s):
     counter = 0
-    lefts = []
-    rights = []
     lefts = [pos for pos, char in enumerate(s) if char == "<"]
     rights = [pos for pos, char in enumerate(s) if char == ">"]
     for i in range(len(rights)):
