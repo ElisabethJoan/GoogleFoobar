@@ -20,6 +20,7 @@ def count(height, left, staircase):
 x = solution(5)
 print("Result: " + str(x))
 print("Expected: 2")
+print
 
 x = solution(200)
 print("Result: " + str(x))
