@@ -59,4 +59,3 @@ print
 x = solution([300, 275], [150, 150], [185, 100], 500)
 print("Result: " + str(x))
 print("Expected: 9")
-print

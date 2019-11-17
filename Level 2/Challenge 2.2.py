@@ -13,6 +13,7 @@ def solution(s):
 x = solution(">----<")
 print("Result: " + str(x))
 print("Expected: 2")
+print
 
 x = solution("<<>><")
 print("Result: " + str(x))

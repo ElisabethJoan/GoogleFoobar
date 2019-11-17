@@ -6,6 +6,8 @@ def solution(data, n):
 
     return newarr
 
-        
-x = solution([1,2,2,5,5,3,3,3,4], 1)
-print(x)
+
+x = solution([1, 2, 2, 5, 5, 3, 3, 3, 4], 1)
+print("Result: " + str(x))
+print("Expected: [1, 4]")
+print
